@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:GenreEntity+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:GenreEntity+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MovieEntity+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MovieEntity+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MovieList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
